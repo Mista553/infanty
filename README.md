@@ -1,1 +1,1 @@
-# infanty
+# infantry
